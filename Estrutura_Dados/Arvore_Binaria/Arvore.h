@@ -9,6 +9,7 @@ typedef char tipo_elem;
 typedef struct no *pno;
 
 typedef struct no
+
 {
     tipo_elem info;
     pno esq;
