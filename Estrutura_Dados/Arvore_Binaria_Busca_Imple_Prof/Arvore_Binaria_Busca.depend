@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1505172382 source:r:\github\estruturadados\arvore\arvore_binaria_busca\arvore.c
+	"Arvore.h"
+
+1505163726 r:\github\estruturadados\arvore\arvore_binaria_busca\arvore.h
+	<stdio.h>
+	<stdlib.h>
+
+1505172396 source:r:\github\estruturadados\arvore\arvore_binaria_busca\main.c
+	"Arvore.h"
+
+1505943227 source:c:\users\a120121\desktop\estruturadados\arvore\arvore_binaria_busca_imple_prof\arvore.c
+	"Arvore.h"
+
+1505938318 c:\users\a120121\desktop\estruturadados\arvore\arvore_binaria_busca_imple_prof\arvore.h
+	<stdio.h>
+	<stdlib.h>
+
+1505943085 source:c:\users\a120121\desktop\estruturadados\arvore\arvore_binaria_busca_imple_prof\main.c
+	"Arvore.h"
+
