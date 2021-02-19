@@ -11,4 +11,6 @@ int main()
     inserirNo(&raiz->dir->esq, 'g', 1);
     exibirArvore(raiz);
     return 0;
+
 }
+
